@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="file-filter-util:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/file_filter_util_jar</output-path>
+    <root id="archive" name="file-filter-util.jar">
+      <element id="module-output" name="file-filter-util" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/info/picocli/picocli/4.7.0/picocli-4.7.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
